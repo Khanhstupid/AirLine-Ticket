@@ -1,0 +1,3 @@
+khanh,quockhanh,customer
+khanh1,quockhanh,admin
+
